@@ -9,9 +9,7 @@
         "gitbuild": "ng build --prod --base /start-angular/SB-Admin-BS4-Angular-5/master/dist/",
         "test": "ng test",
         "lint": "ng lint",
-        "e2e": "ng e2e",
-        "taskcharts": "ng generate component layout/taskcharts -m=layout/taskcharts/taskcharts.module.ts",
-        "module": "ng generate module layout/taskcharts --routing"
+        "e2e": "ng e2e"
     },
     "private": true,
     "dependencies": {
